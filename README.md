@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willsonbudianto
-- 👀 I’m interested in Basketball and Programming
-- 🌱 I’m currently learning React.js and Node.js
+- 👀 I’m interested in Frontend Development such as ser Interface design and User Experience
+- 🌱 I’m currently learning to React Framework and write a clean code
 - 📫 How to reach me , you can send me an email to willson09budianto@gmail.com
 
 <!---
